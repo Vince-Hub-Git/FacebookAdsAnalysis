@@ -15,7 +15,7 @@ Project consists of the visualisations of facebook ads' clicks based on their ti
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/rmE0NAr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a/rmE0NAr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
